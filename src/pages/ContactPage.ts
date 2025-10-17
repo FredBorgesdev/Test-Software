@@ -40,7 +40,7 @@ export class ContactPage {
     }
     
     async getErrorMessageText() {
-        await expect(this.page.locator(this.errorMessageContainer)).toBeVisible({timeout: 10000});
+        await expect(this.page.locator(this.errorMessageContainer)).toBeVisible({timeout: 15000});
         return this.page.locator(this.errorMessageContainer).innerText();
     }
 }

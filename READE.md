@@ -7,7 +7,7 @@
 
 ## 🔗 Entrega Final e Links
 
-* **Link do Vídeo de Apresentação (Máx. 5 min):** [ADICIONE O LINK DO SEU VÍDEO AQUI]
+* **Link do Vídeo de Apresentação :** (https://drive.google.com/file/d/12FWpVA2W6uuljVw0KU3bCuqR-hdHeHtc/view?usp=sharing)
 * **Status:** 21 Casos de Teste Passando (11 API + 10 Web).
 * **Repositório:** Privado, com o colaborador `operationsvoidr` convidado.
 
