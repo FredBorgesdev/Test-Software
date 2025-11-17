@@ -9,7 +9,6 @@
 
 * **Link do Vídeo de Apresentação :** (https://drive.google.com/file/d/1wfX-I0WW17Wth83tGMOQJHGlbmaz5wGt/view?usp=sharing)
 * **Status:** 21 Casos de Teste Passando (11 API + 10 Web).
-* **Repositório:** Privado, com o colaborador `operationsvoidr` convidado.
 
 ---
 
